@@ -1,3 +1,5 @@
+## 11.	F(1) = 1, F(n) = F(n–1) * (2*n + 1), при n > 1
+
 import timeit
 import matplotlib.pyplot as plt
 
